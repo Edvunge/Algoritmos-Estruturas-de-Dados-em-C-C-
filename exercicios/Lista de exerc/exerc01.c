@@ -1,6 +1,6 @@
 /*
 1. Fazer um programa em C que pergunta um valor em metros e imprime o
-correspondente em decímetros, centímetros e milímetros.
+correspondente em decÃ­metros, centÃ­metros e milÃ­metros.
 */
 #include<stdio.h>
 #include<stdlib.h>
@@ -8,7 +8,7 @@ correspondente em decímetros, centímetros e milímetros.
 #include<string.h>
 
 int main(){
-	printf("Hello World!");
+	
 	
 	return(0);
 	System("PAUSE");
