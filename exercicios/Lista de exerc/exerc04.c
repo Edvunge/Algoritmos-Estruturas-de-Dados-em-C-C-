@@ -1,13 +1,13 @@
 /*
 
 4. Fazer um programa em "C" que pergunte um valor em graus Fahrenheit e
-imprime no vídeo o correspondente em graus Celsius usando as fórmulas que
+imprime no vÃ­deo o correspondente em graus Celsius usando as fÃ³rmulas que
 seguem.
 
-a) Usar uma variável double para ler o valor em Fahrenheit e a fórmula
+a) Usar uma variÃ¡vel double para ler o valor em Fahrenheit e a fÃ³rmula
 C=(f-32.0) * (5.0/9.0).
 
-b) Usar uma variável int para ler o valor em Fahrenheit e a fórmula
+b) Usar uma variÃ¡vel int para ler o valor em Fahrenheit e a fÃ³rmula
 C=(f-32)*(5/9).
 
 */
@@ -17,7 +17,7 @@ C=(f-32)*(5/9).
 #include<string.h>
 
 int main(){
-	printf("Hello World!");
+
 	
 	return(0);
 	System("PAUSE");
