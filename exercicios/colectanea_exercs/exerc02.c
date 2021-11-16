@@ -1,5 +1,5 @@
 /*
-2)Receber um nome e imprimir as letras na posição impar
+2)Receber um nome e imprimir as letras na posiÃ§Ã£o impar
 */
 #include<stdio.h>
 #include<stdlib.h>
@@ -7,7 +7,7 @@
 #include<string.h>
 
 int main(){
-	printf("Hello World!");
+
 	
 	return(0);
 	System("PAUSE");
