@@ -1,6 +1,6 @@
 
 /*
-5)Ler nome, endereço, telefone e imprimir 
+5)Ler nome, endereÃ§o, telefone e imprimir 
 */
 #include<stdio.h>
 #include<stdlib.h>
@@ -8,7 +8,7 @@
 #include<string.h>
 
 int main(){
-	printf("Hello World!");
+
 	
 	return(0);
 	System("PAUSE");
